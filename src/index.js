@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import Header from './Header';
 import FriendForm from './FriendForm'
-import FriendList from './FriendList'
 import './index.css';
 
 ReactDOM.render(
